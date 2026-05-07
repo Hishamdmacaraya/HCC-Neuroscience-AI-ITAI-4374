@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large local datasets, uncomment if needed
+# data/
+# datasets/
+
+# Model checkpoints, uncomment if needed
+# models/
+# checkpoints/
+# *.pt
+# *.pth
+# *.h5
+
+# Wolfram backup files
+*.bak
+*.nbp
