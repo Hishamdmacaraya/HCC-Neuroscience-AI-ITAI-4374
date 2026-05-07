@@ -1,0 +1,28 @@
+# Core notebook tools
+jupyter
+notebook
+jupyterlab
+ipykernel
+
+# Scientific computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+
+# Machine learning / AI
+scikit-learn
+torch
+torchvision
+
+# Signal processing and neuroscience-related tools
+mne
+
+# NLP / transformer support, optional
+transformers
+
+# Image processing, optional
+pillow
+opencv-python
