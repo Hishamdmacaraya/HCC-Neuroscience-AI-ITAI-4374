@@ -56,7 +56,7 @@ Hisham-Macaraya-ITAI-4374-Neuroscience-AI/
 │   └── Midterm-Bio-Inspired-AI-Audit-Pilot/
 │
 ├── capstone-project/
-│   └── Final-Project-Bio-Inspired-AI-Audit-Complete-Video-Demo/
+    └── Final-Project-Bio-Inspired-AI-Audit-Complete-Video-Demo/
 
 ```
 
