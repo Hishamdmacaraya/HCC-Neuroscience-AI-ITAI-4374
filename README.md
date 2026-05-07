@@ -44,7 +44,8 @@ Hisham-Macaraya-ITAI-4374-Neuroscience-AI/
 │   ├── A01-A-Conversation-Between-Brain-and-AI/
 │   ├── A03-Bridging-Neuroscience-and-Artificial-Intelligence/
 │   └── A04-Exploring-Spiking-Neurons-with-Wolfram/
-│
+│   └── B01-Exploring-Neural-Information-Processing/
+│ 
 ├── labs/
 │   ├── L02-Cortical-Column-Voting-Simulation/
 │   ├── L04-Simulating-Spiking-Neurons/
@@ -56,14 +57,7 @@ Hisham-Macaraya-ITAI-4374-Neuroscience-AI/
 │
 ├── capstone-project/
 │   └── Final-Project-Bio-Inspired-AI-Audit-Complete-Video-Demo/
-│
-├── bonus-assignments-optional/
-│   ├── Student-Intro/
-│   └── B01-Exploring-Neural-Information-Processing/
-│
-└── docs/
-    ├── repository-checklist.md
-    └── submission-template.md
+
 ```
 
 ## Completed Coursework
@@ -72,14 +66,12 @@ Hisham-Macaraya-ITAI-4374-Neuroscience-AI/
 |---|---|---|
 | A01 A Conversation Between Brain and AI | Assignment | `assignments/A01-A-Conversation-Between-Brain-and-AI/` |
 | L02 Cortical Column Voting Simulation | Lab | `labs/L02-Cortical-Column-Voting-Simulation/` |
-| Student Intro | Bonus Assignment | `bonus-assignments-optional/Student-Intro/` |
 | A03 Bridging Neuroscience and Artificial Intelligence | Assignment | `assignments/A03-Bridging-Neuroscience-and-Artificial-Intelligence/` |
 | L04 Simulating Spiking Neurons | Lab | `labs/L04-Simulating-Spiking-Neurons/` |
 | L05 Bio-Inspired Perception Pipeline | Lab | `labs/L05-Bio-Inspired-Perception-Pipeline/` |
 | Assignment 04: Exploring Spiking Neurons with Wolfram | Assignment | `assignments/A04-Exploring-Spiking-Neurons-with-Wolfram/` |
 | Midterm: Bio-Inspired AI Audit-Pilot | Midterm Project | `midterm-project/Midterm-Bio-Inspired-AI-Audit-Pilot/` |
 | L07 A Practice Audit for Your Midterm Project | Lab | `labs/L07-Practice-Audit-for-Your-Midterm-Project/` |
-| Bonus Points Lab: Exploring Neural Information Processing | Bonus Assignment | `bonus-assignments-optional/B01-Exploring-Neural-Information-Processing/` |
 | Final Project Bio-Inspired AI Audit Complete + Video Demo | Capstone Project | `capstone-project/Final-Project-Bio-Inspired-AI-Audit-Complete-Video-Demo/` |
 
 ## Tools and Technologies
