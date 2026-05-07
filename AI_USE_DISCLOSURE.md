@@ -38,11 +38,6 @@ AI tools should not be used to generate final assignments, final essays, final r
 | Bonus Lab: Exploring Neural Information Processing | ChatGPT / Copilot / Other | Debugging or explanation support | 
 | Final Project: Bio-Inspired AI Audit Complete + Video Demo | ChatGPT / Copilot / Other | Planning, debugging, or editing support |
 
-## Example Disclosure Format
-
-Use this format inside a README file or report when needed:
-
-> AI Use Disclosure: I used [AI tool name] to help with [specific purpose, such as debugging code, explaining a concept, or improving wording]. The prompt I used was: “[paste prompt or short summary].” I reviewed, edited, and verified the final work myself.
 
 ## Student Responsibility Statement
 
